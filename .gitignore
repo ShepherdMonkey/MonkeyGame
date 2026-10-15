@@ -1,0 +1,51 @@
+# ===================
+# Unity 标准忽略规则
+# ===================
+
+# Unity 生成的临时目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 内存快照
+[Mm]emoryCaptures/
+
+# Rider / JetBrains
+.idea/
+*.sln
+*.csproj
+*.userprefs
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+*.userosscache
+*.sln.docstates
+
+# Unity 崩溃与系统信息
+sysinfo.txt
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Crashlytics
+crashlytics-build.properties
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# ===================
+# 项目自定义忽略
+# ===================
+01hzw
+/UnityProj/Assets/01hzw.meta

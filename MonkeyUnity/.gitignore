@@ -1,0 +1,141 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/*
+Logs/
+AuroraLogs/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+/*.log
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.vsconfig
+.vs/*
+scene_temp/
+scene_temp.meta
+ArtTemp/
+ArtTemp.meta
+ProfilerTools/
+ProfilerTools.meta
+LocalTemp/
+LocalTemp.meta
+LuaEncoder/
+LuaEncoder.meta
+
+# =================== #
+# No AoUnityFramework #
+# =================== #
+# Assets/Scripts/
+# Assets/Scripts.meta
+#Assets/Resources/
+#Assets/Resources.meta
+
+AssetBundles/
+Assets/AssetBundles
+Assets/AssetBundles.meta
+
+AssetBundleDebugger/
+AssetBundleDebugger.meta
+
+AndroidPackageProj/
+
+
+Assets/GameAssets/luabytes/
+Assets/GameAssets/luabytes.meta
+
+Assets/Resources/configs/AuroraGameSettings.txt
+Assets/Resources/configs/AuroraGameSettings.txt.meta
+
+Assets/Resources/IgnorePreferences
+Assets/Resources/IgnorePreferences.meta
+
+Assets/Editor/IgnorePreferences
+Assets/Editor/IgnorePreferences.meta
+
+Assets/AuroraLocal/Editor/LocalSetting/Catalog.*
+.vscode/
+.idea/
+/*.sublime-workspace
+/*.sublime-project
+/.vs
+
+# FindReference2
+Assets/Editor/FR2_Cache.asset
+Assets/Editor/FR2_Cache.asset.meta
+
+# StreamingAssets
+Assets/StreamingAssets/build_info
+Assets/StreamingAssets/build_info.meta
+
+#Packages
+Packages/packages-lock.json
+
+# addressaqbleDatabase
+Assets/AddressableAssetsData/
+!Assets/AddressableAssetsData/DataBuilders/
+!Assets/AddressableAssetsData/AssetGroupTemplates/
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Built In Data_PlayerDataGroupSchema.asset"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Built In Data_PlayerDataGroupSchema.asset.meta"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Default Local Group_BundledAssetGroupSchema.asset"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Default Local Group_BundledAssetGroupSchema.asset.meta"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Default Local Group_ContentUpdateGroupSchema.asset"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"Default Local Group_ContentUpdateGroupSchema.asset.meta"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"GroupManager_AddressGroupManager.asset"
+!Assets/AddressableAssetsData/AssetGroups/Schemas/"GroupManager_AddressGroupManager.asset.meta"
+
+!Assets/AddressableAssetsData/AssetGroups/"Built In Data.asset"
+!Assets/AddressableAssetsData/AssetGroups/"Built In Data.asset.meta"
+!Assets/AddressableAssetsData/AssetGroups/"Default Local Group.asset"
+!Assets/AddressableAssetsData/AssetGroups/"Default Local Group.asset.meta"
+!Assets/AddressableAssetsData/AssetGroups/"GroupManager.asset"
+!Assets/AddressableAssetsData/AssetGroups/"GroupManager.asset.meta"
+
+#UserSettings
+/UserSettings/Layouts/
+/UserSettings/AndroidLogcatSettings.asset
+/UserSettings/EditorUserSettings.asset
+/UserSettings/Search.index
+/UserSettings/Search.settings
+
+#ProjectSettings
+/ProjectSettings/boot.config
+/ProjectSettings/MemorySettings.asset
+/ProjectSettings/PWBSettings.txt
+/ProjectSettings/BurstAotSettings_Android.json
+/ProjectSettings/BurstAotSettings_iOS.json
+/ProjectSettings/URPProjectSettings.asset
+/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+
+#SmartLibrarySettings
+/SmartLibrarySettings/Collections/
+
+#Custom
+/Assets/7XTK
+/Assets/7XTK.meta
+
+#StorySetting
+/Assets/Scripts/CSharp/Editor/Story/Resources.meta
+/Assets/Scripts/CSharp/Editor/Story/Resources/StorySettingConfig.asset
+/Assets/Scripts/CSharp/Editor/Story/Resources/StorySettingConfig.asset.meta
+
+# FindReference2
+/Assets/FR2_Cache.asset
+/Assets/FR2_Cache.asset.meta
+
+#打包信息
+/Assets/Resources/package_info.txt*
+
+#配置表
+../Product/AExcel/Dev/~*
